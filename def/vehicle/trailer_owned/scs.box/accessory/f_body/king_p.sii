@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : king_p.scs.box.f_body
+{
+	name: "@@turbo_cooler@@ @@paint@@"
+	price: 32000
+	unlock: 18
+	icon: "f_body/scs_box/king"
+
+	exterior_model: "/vehicle/trailer_owned/scs_box/accessory/f_body/king_p.pmd"
+	coll: "/vehicle/trailer_owned/scs_box/accessory/f_body/king_p.pmc"
+
+	suitable_for[]: "reefer_28.scs.box.body"
+	suitable_for[]: "reefer_45.scs.box.body"
+	suitable_for[]: "reefer_53.scs.box.body"
+	suitable_for[]: "reefer_48.scs.box.body"
+	suitable_for[]: "reefer_32.scs.box.body"
+}
+}

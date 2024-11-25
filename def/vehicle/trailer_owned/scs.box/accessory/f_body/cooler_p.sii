@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cooler_p.scs.box.f_body
+{
+	name: "@@cooler@@ @@paint@@"
+	price: 26000
+	unlock: 15
+	icon: "f_body/scs_box/cooler"
+
+	exterior_model: "/vehicle/trailer_owned/scs_box/accessory/f_body/cooler_p.pmd"
+	coll: "/vehicle/trailer_owned/scs_box/accessory/f_body/cooler_p.pmc"
+
+	suitable_for[]: "reefer_28.scs.box.body"
+	suitable_for[]: "reefer_45.scs.box.body"
+	suitable_for[]: "reefer_53.scs.box.body"
+	suitable_for[]: "reefer_48.scs.box.body"
+	suitable_for[]: "reefer_32.scs.box.body"
+}
+}

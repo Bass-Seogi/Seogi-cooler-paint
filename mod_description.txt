@@ -1,0 +1,9 @@
+﻿[blue]Seogi Cooler Paint
+
+[red]It will function normally from 1.48[normal]
+
+
+f_body
+
+cooler cooler
+king turbo_cooler
