@@ -1,6 +1,6 @@
 ﻿[blue]Seogi Cooler Paint
 
-[red]It will function normally from 1.48[normal]
+[red]It will function normally from 1.52[normal]
 
 
 f_body
